@@ -42,7 +42,7 @@ export default function Home() {
           hardware wallet.
         </p>
         <a
-          href="https://github.com/Rahulhanje/SolanaWalletGenerator"
+          href="https://github.com/UserX0day/solana-wallet-generator.git"
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-1.5 transition-colors hover:text-ink"
